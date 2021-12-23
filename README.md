@@ -15,6 +15,10 @@
 - React router
 - custom Hooks (useGlobalCotext)
 
+## API
+
+- https://www.thecocktaildb.com/api.php
+
 ## Languages
 
 - Javascript
